@@ -1,0 +1,52 @@
+.nave
+    {
+        background-color: #303F9F;
+    }
+    a
+    {
+        outline: none;
+        color: black;
+        font-weight: bold;
+    }
+    i
+    {
+        color: black;
+    }
+
+    .collapsible-body>div
+    {
+        padding-left: 60px;
+        margin: 10px 0;    
+    }
+
+    div
+    {
+        border:0;
+    }
+
+    .collapsible-header
+    {
+        border:inherit;
+    }
+
+    .collapsible-body
+    {
+        border: inherit;
+        padding: 0;
+    }
+
+    .collapsible
+    {
+        border:inherit;
+        margin: 0;
+    }
+
+    .btn
+    {
+        background-color:#303F9F;  
+    }
+
+    .btn:hover
+    {
+        background-color:#4D7AFF ;
+    }
